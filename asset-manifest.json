@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fayshalrana/Text-Converter/static/css/main.646ab365.css",
+    "main.js": "/fayshalrana/Text-Converter/static/js/main.8dc2886d.js",
+    "static/js/787.28cb0dcd.chunk.js": "/fayshalrana/Text-Converter/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/fayshalrana/Text-Converter/index.html",
+    "main.646ab365.css.map": "/fayshalrana/Text-Converter/static/css/main.646ab365.css.map",
+    "main.8dc2886d.js.map": "/fayshalrana/Text-Converter/static/js/main.8dc2886d.js.map",
+    "787.28cb0dcd.chunk.js.map": "/fayshalrana/Text-Converter/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.646ab365.css",
+    "static/js/main.8dc2886d.js"
+  ]
+}
